@@ -18,7 +18,7 @@ Thank you for reading through my README! As a reward, I present to you one fun f
 
 **Fun fact**: Greyhounds can beat cheetahs in a race. While cheetahs can run twice as fast as greyhounds, they can only maintain that 70 mph speed for about thirty seconds. A Greyhound can maintain a 35 mph speed for about seven miles. So, the cheetah may start out first, but the greyhound will soon overtake him.
 
-![Cartoon dog bite causing an incredibly dramatic reaction](https://AshisPatel.io/Horiseon-Week-1-Challenge/assets/images/dog_bite.gif)
+![Cartoon dog bite causing an incredibly dramatic reaction](https://github.com/AshisPatel/Horiseon-Week-1-Challenge/blob/main/assets/images/dog_bite.gif)
 
 [Click here to waste a few minutes, but have a good time nonetheless.](https://pointerpointer.com/)
 
