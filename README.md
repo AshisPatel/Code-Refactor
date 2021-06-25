@@ -2,7 +2,7 @@
 
 ## Horiseon Web Page 
 
-[Horiseon website logo](https://github.com/AshisPatel/Horiseon-Week-1-Challenge/blob/main/assets/images/Horiseon-Logo.png)
+![Horiseon website logo](https://github.com/AshisPatel/Horiseon-Week-1-Challenge/blob/main/assets/images/Horiseon-Logo.png)
 
 Horiseon is a marketing agency that specializes in improving the search engine optimization (SEO) and reputation of websites! 
 
