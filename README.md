@@ -4,7 +4,7 @@
 
 Horiseon is a marketing agency that specializes in improving the search engine optimization (SEO) and reputation of websites! 
 
-Find out more on their [home page](https://ashispatel.github.io/Horiseon/).
+Find out more on their [home page](https://ashispatel.github.io/Horiseon-Week-1-Challenge/).
 
 ## A Breakdown on Website Accessibility & SEO 
 
@@ -14,9 +14,11 @@ While making websites accessible should be a general best practice without incen
 
 ## End Note - A Thank You to the Reader 
 
-Thank you for reading through my README! As a reward, I present to you one fun fact, and a link to a fun website. Please enjoy them at your leisure, maybe share them with a friend? 
+Thank you for reading through my README! As a reward, I present to you one fun fact, my favorite gif, and a link to a fun website. Please enjoy them at your leisure, and maybe share them with a friend? 
 
 **Fun fact**: Greyhounds can beat cheetahs in a race. While cheetahs can run twice as fast as greyhounds, they can only maintain that 70 mph speed for about thirty seconds. A Greyhound can maintain a 35 mph speed for about seven miles. So, the cheetah may start out first, but the greyhound will soon overtake him.
+
+![Shooting star bag raiders meme gif](./assets/images/dog_bite.gif)
 
 [Click here to waste a few minutes, but have a good time nonetheless.](https://pointerpointer.com/)
 
