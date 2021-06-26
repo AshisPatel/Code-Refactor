@@ -2,7 +2,7 @@
 
 ## Purpose
 
-![Horiseon website logo](https://github.com/AshisPatel/Horiseon-Week-1-Challenge/blob/main/assets/images/Horiseon-Logo.png)
+![Horiseon website logo](https://github.com/AshisPatel/Horiseon-Week-1-Challenge/blob/main/assets/images/Horiseon-Page.png)
 
 A website that provides information about and the benefits of Search Engine Optimization (SEO) and online reputation management using social media.  
 
