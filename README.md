@@ -1,4 +1,4 @@
-# Horiseon Code Refactor - Week 1 Challenge 
+# Horiseon Code Refactor
 
 ## Purpose
 
@@ -17,7 +17,7 @@ While making websites accessible should be a general best practice without incen
 * CSS
 
 ## Website 
-https://ashispatel.github.io/Horiseon-Week-1-Challenge/
+https://ashispatel.github.io/Horiseon/
 
 
 ## End Note - A Thank You to the Reader 
